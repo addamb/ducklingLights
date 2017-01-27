@@ -1,2 +1,8 @@
-/config.yml
-/node_modules
+config.yml
+node_modules/
+.build/assets
+.build/config
+.build/layout
+.build/locales
+.build/snippets
+.build/templates
